@@ -14,7 +14,7 @@ function App() {
 
   return (
     <div className="bg-black text-white">
-      <section className="h-screen w-full flex items-center justify-center px-6">
+      <section className="h-full w-full flex items-center justify-center px-6">
         <img
           src="/luvluv.png"
           alt="Love"
